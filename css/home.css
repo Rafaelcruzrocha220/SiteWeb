@@ -79,7 +79,7 @@ ul{
 }
 
 .footer-home{
-    position: absolute;
+    /* position: absolute;*/
     bottom: 0px;
     background-color: #343a40!important;
     width: 100%;
