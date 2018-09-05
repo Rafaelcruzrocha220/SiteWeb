@@ -1,0 +1,18 @@
+.contact-fields{
+    margin-bottom: 15px !important;
+}
+
+#contato{
+    margin: 75px 0px;
+}
+
+.button-cep{
+    background-color: #3cbba0 !important;
+    border-radius: 20px;
+    color: white;
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 5px;
+}
+

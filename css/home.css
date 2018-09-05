@@ -1,0 +1,120 @@
+*{
+    box-sizing: border-box;
+}
+
+nav{
+    width: 100%;
+}
+
+ul{
+    position: absolute;
+    right: 100px;
+}
+
+.title-nav{
+    font-weight: 800;
+    font-size: 15px;
+    color: #3cbba0;
+    float: right;
+    transform: translateY(60%);
+    line-height: 15px;
+}
+
+.fa-home{
+    font-size: 20px;
+    color: #3cbba0;
+    padding: 5px;
+}
+
+.house-exemple{
+    background-image: url('../img/banner.jpg');
+    height: 250px;
+    background-size: 100% 850px;
+    background-position-y: center;
+    background-repeat: no-repeat
+}
+
+.link-serviços{
+    background-color: #3cbba0;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 30px;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%);
+}
+
+.link-serviços:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.title-serviços{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    top: 50%;
+    font-weight: 800;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%);
+}
+
+.quem-somos{
+    padding-left: 0px !important;
+    margin-top: 40px;
+    color: #3cbba0;
+    font-weight: 800;
+    font-size: 30px;
+    border-bottom: 1px solid #3cbba0;
+}
+
+.fa-users,
+.fa-check,
+.fa-phone{
+    margin-right: 10px;
+}
+
+.footer-home{
+    position: absolute;
+    bottom: 0px;
+    background-color: #343a40!important;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.footer-home h2{
+    border: 1px solid;
+    width: 300px;
+    border-radius: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+    margin-bottom: 25px;
+}
+
+footer h2{
+    color: #3cbba0;
+}
+
+footer h6,
+footer p{
+    color: white;
+}
+
+.row{
+    margin: 0px !important;
+}
+
+.container-home{
+    margin: 40px 0px;
+    width: 80%;
+    transform: translateX(10%);
+}
+
+
+
